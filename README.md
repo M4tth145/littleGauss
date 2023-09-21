@@ -5,7 +5,7 @@ This is a java programm wich solves the small gauß problem.
 It's quite well known math task for beginners in programming.
 
 In use was:
-- neoVim
+- [neoVim](https://github.com/M4tth145/neoVim) <-- My vim configfile
 - openjdk 20.0.2 2023-07-18
 - OpenJDK Runtime Environment (build 20.0.2+9)
 - OpenJDK 64-Bit Server VM (build 20.0.2+9, mixed mode, sharing)
